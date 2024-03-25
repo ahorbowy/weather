@@ -1,0 +1,21 @@
+# Lista miast
+cities = [
+    "Białystok",
+    "Bydgoszcz",
+    "Gdańsk",
+    "Gorzów Wielkopolski",
+    "Katowice",
+    "Kielce",
+    "Kraków",
+    "Lublin",
+    "Łódź",
+    "Olsztyn",
+    "Opole",
+    "Poznań",
+    "Rzeszów",
+    "Szczecin",
+    "Toruń",
+    "Warszawa",
+    "Wrocław",
+    "Zielona Góra",
+]
